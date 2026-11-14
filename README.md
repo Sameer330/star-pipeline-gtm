@@ -144,3 +144,21 @@ python3 pipeline.py
 * **Networking & Async:** `httpx`, `asyncio`
 * **AI Orchestration:** Pydantic Structured Outputs + Prompt Engineering
 * **Data Sources:** GitHub REST API v3
+
+
+---
+
+## 💼 Work With Me / Hiring
+
+I am a Software Engineer specializing in **Go-To-Market (GTM) Engineering, Signal-Based Outbound, and Revenue Infrastructure**.
+
+If your team is:
+* Spending 20+ hours a week manually vetting leads, searching GitHub, or qualifying accounts.
+* Struggling with fragile no-code setups that silently drop high-value enterprise pipeline.
+* Looking to build automated, signal-driven outbound or inbound speed-to-lead engines.
+
+**I am currently open to full-time roles, contract projects, and GTM advisory engagements.**
+
+* 🔗 **LinkedIn:** [linkedin.com/in/sameer-ankalagi](https://www.linkedin.com/in/sameer-ankalagi)
+* 📧 **Email:** [330.sameer@gmail.com](mailto:330.sameer@gmail.com)
+* 💻 **GitHub:** [@Sameer330](https://github.com/Sameer330)
